@@ -31,6 +31,13 @@
   display: flex;
   flex-direction: row;
 }
+
+.RedSquare {
+  width: 200px;
+  height: 200px;
+  background: red;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
