@@ -1,10 +1,10 @@
 import React from "react";
-import List from "./List";
-import React_ex19 from "./react_ex19";
+import React_ex20 from "./react_ex20.js";
+import React_ex19 from "./react_ex19.js";
 
 function App() {
     return (
-        <React_ex19 />
+        <React_ex20 />
     );
 }
 
