@@ -18,8 +18,8 @@ const ListItem = ({task, index, onDelete}) => {
 
         <div className="tasks-list__list-item">
             <li>{task}</li>
-            <button onClick={DeleteClick}>Delete</button>
-            <button onClick={AlertClick}>Alert</button>
+            {/*<button onClick={DeleteClick}>Delete </button>*/}
+            {/*<button onClick={AlertClick}>Alert</button>*/}
         </div>
     )
 }
